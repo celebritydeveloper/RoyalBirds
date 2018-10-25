@@ -1,0 +1,352 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="description" content="SafeTour Travel & Tour Agency Booking Template">
+    <meta name="keywords" content="SafeTour,Travel,Tour,Agency,Booking">
+    <meta name="author" content="EcologyTheme">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Royalbirds Travels &amp; Tours</title>
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <!-- Goole Font -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/assets/bootstrap.min.css">
+    <!-- Font awsome CSS -->
+    <link rel="stylesheet" href="css/assets/font-awesome.min.css">
+    <!-- popup-->
+    <link rel="stylesheet" href="css/assets/magnific-popup.css">
+    <link rel="stylesheet" href="fonts/flaticon/flaticon.css">
+    <link rel="stylesheet" href="css/assets/meanmenu.css"> 
+    <link rel="stylesheet" href="css/assets/owl.carousel.css">
+    <link rel="stylesheet" href="css/assets/owl.theme.css"> 
+
+    <!-- main style-->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+                            
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!--============= { Header } ===========-->
+<header id="Packege-grid" class="header inner-pages">
+    <nav class="navbar navbar-expand-md navbar-light bg-faded">
+        <div class="container">
+            <a class="navbar-brand" href="index.php"><img src="images/royalbirds-white-logo.png" alt="RoyalBirds Logo"></a>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a href="index.php" class="nav-link">Home</a>
+            
+                </li>
+                <li class="nav-item"><a href="about.php" class="nav-link">About</a>
+
+                    </li>
+             
+                    <li class="nav-item"><a href="services.php" class="nav-link active">Services</a>
+
+                    </li>
+                    <li class="nav-item"><a href="packages.php" class="nav-link">Packages</a>
+                    </li>
+                    <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="">
+                <a href="#" class="btn btn-default book-btn">Book Now</a>
+            </div>
+        </div>
+    </nav><!-- END NAVBAR -->        
+
+    <div class="intro-text">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="title">Services</h1>
+                    <div class="page-link">
+                        <a href="index.html" title="">Home</a>
+                        <a href="services.php" title="">Our Services</a>
+                    </div>                    
+                </div>
+            </div> 
+        </div>
+    </div>
+</header> <!-- End Header -->
+
+
+
+
+ <!--============= { Safe Tour Trips } ===========-->
+<section id="tafe_tour_trips-03" class="tafe_tour_trips-02 tafe_tour_trips-03">
+    <div class="tafe_tour_trips-03-wrapper">
+        <div class="container">
+            <div class="row  single-row-items">
+                        <div class="col-sm-6 col-lg-4 rpb">
+                            <div class="singel-trips">
+                                <div class="numbar-count-wrapper">                           
+                                    <div class="list-numbar-count">
+                                        <span>01</span>
+                                    </div>
+                                </div>
+                                <div class="trips-details">
+                                    <h3>Travel Booking</h3>
+                                    <p>Hypotheses network effects validation buzz ecosystem ramen. Responsive web design disruptive beta. Agile development infogra</p>
+                                </div>
+                            </div>   
+                        </div>
+
+                        <div class="col-sm-6 col-lg-4 rpb">
+                            <div class="singel-trips">
+                                <div class="numbar-count-wrapper">                           
+                                    <div class="list-numbar-count">
+                                        <span>02</span>
+                                    </div>
+                                </div>
+                                <div class="trips-details">
+                                    <h3>Hotel Booking</h3>
+                                    <p>Buzz business-to-business rockstar bandwidth focus supply chain non-disclosure agreement social proof startup growth..</p>
+                                </div>
+                            </div>   
+                        </div>
+                        
+                        <div class="col-sm-6 col-lg-4 rpb">
+                            <div class="singel-trips">
+                                <div class="numbar-count-wrapper">                           
+                                    <div class="list-numbar-count">
+                                        <span>03</span>
+                                    </div>
+                                </div>
+                                <div class="trips-details">
+                                    <h3>Tour Setup</h3>
+                                    <p>Buzz business-to-business rockstar bandwidth focus supply chain non-disclosure agreement social proof startup growth..</p>
+                                </div>
+                            </div>   
+                        </div>
+                        
+                   
+
+                       
+                        <div class="col-sm-6 col-lg-4 rpb">
+                            <div class="singel-trips">
+                                <div class="numbar-count-wrapper">                           
+                                    <div class="list-numbar-count">
+                                        <span>04</span>
+                                    </div>
+                                </div>
+                                <div class="trips-details">
+                                    <h3>Hand-picked tours</h3>
+                                    <p>MVP launch party virality series A financing. Strategy freemium seed round pivot graphical user interface crowdfunding.</p>
+                                </div>
+                            </div>   
+                        </div>
+
+                        <div class="col-sm-6 col-lg-4 rpb">
+                            <div class="singel-trips">
+                                <div class="numbar-count-wrapper">                           
+                                    <div class="list-numbar-count">
+                                        <span>05</span>
+                                    </div>
+                                </div>
+                                <div class="trips-details">
+                                    <h3>Private Guide</h3>
+                                    <p>Channels seed round iPhone infrastructure startup stealth. Holy grail analytics prototype infographic first advantage.</p>
+                                </div>
+                            </div>   
+                        </div>
+                   
+
+                       
+                        <div class="col-sm-6 col-lg-4 rpb">
+                            <div class="singel-trips">
+                                <div class="numbar-count-wrapper">                           
+                                    <div class="list-numbar-count">
+                                        <span>06</span>
+                                    </div>
+                                </div>
+                                <div class="trips-details">
+                                    <h3>Special Activites</h3>
+                                    <p>Early adopters mass market business plan incubator assets user experience funding iPad ecosystem seed money backing sales.</p>
+                                </div>
+                            </div>   
+                        </div>                    
+                
+            </div>            
+        </div>
+    </div>
+</section>
+
+
+
+
+ <!--============= { Our Features Places } ===========-->
+<section id="features_place" class="features_place">
+    <div class="container">
+        <div class="row">        
+            <div class="col-sm-12">
+                <div class="sub-title">
+                    <h2>What Makes Our Services Unique</h2>
+                    <p>Caravan Amsterdam group discount. Booking passport USA. People Berlin activities motel on a shoestring Turkey creditcard discover flexibility globe.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6 col-sm-6 p-0">
+                
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem saepe a commodi adipisci fugit, laboriosam minima voluptate incidunt voluptas ut totam odit eligendi necessitatibus, rem quos sapiente. Atque deleniti unde animi ex soluta. Natus laudantium ut quasi, cupiditate, et dolor, atque quia illum sequi inventore vel repudiandae sunt ducimus at.</p>
+ 
+  
+ 
+            </div>
+            <div class="col-6 col-sm-6">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem saepe a commodi adipisci fugit, laboriosam minima voluptate incidunt voluptas ut totam odit eligendi necessitatibus, rem quos sapiente. Atque deleniti unde animi ex soluta. Natus laudantium ut quasi, cupiditate, et dolor, atque quia illum sequi inventore vel repudiandae sunt ducimus at.</p>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+ <!--============= { Our Tourist Review } ===========-->
+    <section id="client_review-03" class="client_review-03">
+        <div class="container">
+            <div class="row">        
+                <div class="col-sm-12">
+                    <div class="sub-title">
+                        <h2>Tourist reviews</h2>
+                        <p>I must explain to you how all this mistaken idea of denouncing pleasure</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-9 mx-auto">
+                    <div id="reviews_carousel-03" class="owl-carousel">
+                        <div class="review_singel">
+                            <div class="images-box">
+                                <img src="images/reviewer/reviewer-01.png" alt="">
+                            </div>                    
+                            <div class="content-box">
+                                <p>Startup ecosystem iPhone analytics. Hackathon backing release interaction design innovator crowdsource handshake iPhone partnership startup paradigm shift MVP focus metrics Client analytics.</p>
+                            </div>
+                            <div class="author-details">
+                                <h3>Piter Son</h3>
+                                <span>Alexis, Parents</span>
+                            </div>                              
+                        </div>
+
+                        <div class="review_singel">
+                            <div class="images-box">
+                                <img src="images/reviewer/reviewer-02.png" alt="">
+                            </div>                    
+                            <div class="content-box">
+                                <p>Backing creative non-disclosure agreement. IPhone investor influencer buyer seed round value proposition first mover advantage technology graphical user interface. Bandwidth funding iPhone.</p>
+                            </div>
+                            <div class="author-details">
+                                <h3>Jhonthan Smith</h3>
+                                <span>America</span>
+                            </div>                              
+                        </div>
+
+                        <div class="review_singel">
+                            <div class="images-box">
+                                <img src="images/reviewer/reviewer-03.png" alt="">
+                            </div>                    
+                            <div class="content-box">
+                                <p>Channels seed round iPhone infrastructure startup stealth. Holy grail analytics prototype infographic first mover advantage. Scrum project holy grail business plan gamification product.</p>
+                            </div>
+                            <div class="author-details">
+                                <h3>Juliya Rosge</h3>
+                                <span>England</span>
+                            </div>                              
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+<!--============= { Footer Area Section } ===========-->
+<footer id="footer-04" class="footer">
+    <div class="container">
+        <div class="row footer-col-list">
+            <div class=" footer-single-col footer_single_col_1">
+                <h3 class="subtitle_1"><img src="images/royalbirds-white-logo.png" alt="RoyalBirds Logo"></h3>
+                <p>Social proof hypotheses investor product management. Branding graphical user interface funding facebook conversion.</p>
+                <div class="subscribe-social">
+                    <ul class="social-items list-unstyled">
+                        <li><a href="#"><i class="fab fa-facebook-f fb-icon"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter twitt-icon"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram ins-icon"></i></a></li>
+                    </ul>
+                </div> 
+            </div>
+
+            <div class="footer-single-col footer_single_col_2">
+                <h3 class="subtitle_1">Link</h3> 
+                <ul class="list-unstyled">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Pages</a></li>
+                    <li><a href="#">Hotel</a></li>
+                    <li><a href="#">Testimonials</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-single-col footer_single_col_3"> 
+                <h3 class="subtitle_1">Support</h3>
+                <ul class="list-unstyled">
+                    <li><a href="#">Simply</a></li>
+                    <li><a href="#">Dummy</a></li>
+                    <li><a href="#">Printing</a></li>
+                    <li><a href="#">Industry</a></li>                    
+                    <li><a href="#">Standard</a></li>
+                    <li><a href="#">Galley</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-single-col footer_single_col_4">
+                <h3 class="subtitle_1">Booking</h3>
+                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots classical</p>
+            </div>  
+        </div>
+
+        <div class="copyright">
+            <p>Copyright &copy; 2018, <span>RoyalBirds Travels &amp; Tours</span></p>            
+        </div>         
+    </div>      
+</footer><!-- ./ End Footer Area-->
+
+
+<!--============= { Scroll Top Area } ===========-->
+<section id="scroll-top" class="scroll-top">
+    <div class="container">      
+        <div class="row">
+            <div class="col-sm-12 d-flex justify-content-end">
+                <h2>&nbsp;</h2>
+                <div class="to-top pos-rtive">
+                    <a href="#"><i class = "fa fa-angle-up"></i></a>
+                </div><!-- Scroll to top button end-->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!-- Optional JavaScript -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.meanmenu.min.js"></script>  
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+</html>

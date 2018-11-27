@@ -2662,7 +2662,7 @@ select {
     font-size: 18px;
     line-height: 48px; }
   #packages_grid_items .single-package-wrapper .singel-packages .packages_details a {
-    background: #3f77fa;
+    background: #480070;
     border-radius: 5px;
     padding: 13px 32px;
     color: #ffffff;
@@ -2797,7 +2797,7 @@ select {
         margin-left: 15px; }
     .packages-single .single_package_left .packages-single-title .booking-btn {
       color: #ffffff;
-      background: #3f77fa !important;
+      background: #480070 !important;
       font-weight: 600;
       position: relative;
       background: #ffffff;
@@ -2926,7 +2926,7 @@ select {
         text-align: center;
         margin-top: 24px; }
         .packages-single .single_package_right .contact_form form .submit-btn .button-l {
-          background: #3f77fa;
+          background: #480070;
           border: none;
           padding: 10px 40px;
           border-radius: 5px;

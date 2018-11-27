@@ -1860,7 +1860,7 @@ select {
           color: #8d95a6;
           color: #384a5e; }
     #header-04 .nav-wrapper .navbar .book-btn {
-      background: #3f77fa;
+      background: #480070;
       border-radius: 3px;
       color: #ffffff;
       height: 48px;
@@ -2749,7 +2749,7 @@ select {
     margin-top: 40px; }
     #packages_list_items .single-package-wrapper .load_single_packege .load_more_btn {
       padding: 0px 60px;
-      background: #Dc0000;
+      background: #480070;
       color: #ffffff;
       font-weight: 600;
       line-height: 84px;
@@ -3779,10 +3779,10 @@ font-size: 22px;
 }
 .header .navbar .book-btn {
     background: #fff;
-    color: #3f77fa;
+    color: #480070;
 }
 .header .navbar .book-btn:hover {
-    background: #3f77fa;
+    background: #480070;
 }
 #place_location_05 #home_carousel-04 .place_singel .palce-details h3, #place_location_05 #home_carousel-04 .place_singel .palce-details p{
     text-align: center;
